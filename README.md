@@ -6,13 +6,13 @@ Description: I worked as Front-end developer. My responsibility was to add new f
 Website Link: https://fship.webkype.co
 
 
-AMRS
+# AMRS
 Team Size: 3
 Description: A complete ecommerce application where I developed frontend and admin panel from scratch. It has feature like add to cart, Wishlist, user login panel (dashboard, my orders, Wishlist & manage address etc.). From admin panel we can create masters like category, brands, attributes and can also create dynamic website pages (like about us, FAQ) - can manage sellers, products, orders, users &reports etc. Skills: React JS | REST API | JavaScript | HTML | CSS | VS CODE | JSX | ES6 |Node + npm
 Duration: 6 Month(s)
 Website Link: https://amrs.webkype.in
 
-Hauzi
+# Hauzi
 Team Size: 3
 Skills: React JS | REST API | JavaScript | HTML | CSS | VS CODE | JSX | ES6 |Node + npm
 Duration: 0 Year(s) 6 Month(s)
